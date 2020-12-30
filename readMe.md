@@ -1,15 +1,13 @@
-
 # Google Books
 
-Make Burgers and then DEVOUR them. 
+Search for books from Google Books. 
 
 ##Project Heroku URL
 https://maple-eh-39994.herokuapp.com/
 
-## Have Fun and Create your Own Burger Name
+## Have Fun and discover new boooks from Google Search
 
-App is diployed thru Heroku. Install all dependacies. Front end is created thru Handlebars. Database is form MySql 
-workbench. 
+App is diployed thru Heroku. Install all dependacies. Front end is created thru React. Database is form MongoDb. 
  
 
 ## npm install
@@ -19,12 +17,8 @@ express, MongoDB, React
   
 Search for a Book:
 
-  * Insert your burger name into input area.
+  * Insert your book you are searching for into input area.
 
-  * click radio to add if "devoured" choice upon submission.
-
-  * click submit button. 
-  
-  * when burger added click on "devoured" to move to devour section.
+  * click Search button to submit search request. 
   
   * to delete, click on "delete" button. 
