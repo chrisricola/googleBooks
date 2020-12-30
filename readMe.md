@@ -1,6 +1,6 @@
 video: https://drive.google.com/file/d/1x7860FmYSfeM4buu3layw-zAyB7mVRnm/view
 
-# Burger 
+# Google Books
 
 Make Burgers and then DEVOUR them. 
 
@@ -15,10 +15,10 @@ workbench.
 
 ## npm install
 
-express, mysql, inquirer, handlebars
+express, MongoDB, React
 
   
-Add a burger by:
+Search for a Book:
 
   * Insert your burger name into input area.
 
